@@ -1,6 +1,6 @@
 I am a self-taught front-end developer.
 
-- 👋 Hi, I’m @dgoglvn
+- 👋 Hi, I’m Diego
 - 👀 I’m interested in building for the web
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me ...
